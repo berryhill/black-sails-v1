@@ -21,7 +21,7 @@ func (c *Clock) Work() {
 	}()
 }
 
-func (c *Clock)Play () {
+func (c *Clock) Play () {
 	c.IsPlaying = true
 }
 

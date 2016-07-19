@@ -21,17 +21,17 @@ func (s *Stem) OpenFile(location string) error {
 }
 
 func (s *Stem) Load() error {
-//TODO implement
+	//TODO implement
 
-return nil
+	return nil
 }
 
 func (s *Stem) Play() {
-//TODO implement
+	//TODO implement
 }
 
 func (s *Stem) Stop() {
-//TODO implement
+	//TODO implement
 }
 
 func (s *Stem) MovePlayPosition(Bars int, Steps int) {
@@ -39,10 +39,10 @@ func (s *Stem) MovePlayPosition(Bars int, Steps int) {
 }
 
 func (s *Stem) LoopOn(bars int) {
-//TODO implement
+	//TODO implement
 }
 
 func (s *Stem) LoopOff() {
-//TODO implement
+	//TODO implement
 }
 
